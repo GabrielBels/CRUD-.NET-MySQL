@@ -1,0 +1,45 @@
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\CRUD.NET_MySQL.exe.config
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\CRUD.NET_MySQL.exe
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\CRUD.NET_MySQL.pdb
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Renci.SshNet.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Memory.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Zstandard.Net.dll
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Google.Protobuf.pdb
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\Renci.SshNet.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Memory.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD .NET MySQL.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.CRUD.resources
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.Properties.Resources.resources
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD .NET MySQL.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD .NET MySQL.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD .NET MySQL.csproj.CopyComplete
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.exe
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.pdb
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\CRUD.NET_MySQL.exe.manifest
+C:\Users\gabri\Desktop\CRUD .NET MySQL\bin\Debug\CRUD.NET_MySQL.application
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.exe.manifest
+C:\Users\gabri\Desktop\CRUD .NET MySQL\obj\Debug\CRUD.NET_MySQL.application
